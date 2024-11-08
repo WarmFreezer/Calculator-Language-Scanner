@@ -1,0 +1,8 @@
+read A1 //Test comment
+read A2 /* another
+Comment */
+sum:=(A1-33)+A2*5.5 /* another */
+write sum
+// and again :)
+write (A1+A2)/2
+write _A_5
